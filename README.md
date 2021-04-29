@@ -16,19 +16,19 @@ create virtual environment : e.g.  conda create -n KccMining python=3.7 anaconda
 jupyter notebook –generate –config  
           => e.g.           c.NotebookApp.notebook_dir =  r ‘D:\01 NSYSU 1082\Lab’
 
-# PDF Miner
+### PDF Miner
 install  pdfminer:  e.g. pip install pdfminer.six  (可能需要管理權限)
 
-# Tensorflow
+### Tensorflow
 pip install  tensorflow  (under anaconda virtual environment KccMining )
 
-# Keras
+### Keras
 pip install  keras  (under anaconda virtual environment KccMining )
 
-# Segmentation
+### Segmentation
 install  jieba:  e.g.  pip install jieba
 Install CkipTagger: e.g. pip install -U ckiptagger
 
-# Topic Model
+### Topic Model
 install  Gensim:  e.g. pip install --upgrade gensim 
 install  Mallet:   https://programminghistorian.org/en/lessons/topic-modeling-and-mallet
