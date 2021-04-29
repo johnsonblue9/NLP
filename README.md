@@ -1,4 +1,4 @@
-[課程規劃]
+# 課程規劃
 W12 - Introduction
 W13 -  PDF Extraction
 W14 - Text Segmentation
@@ -9,8 +9,8 @@ W18 – Binary Classification
 W19 – Multiclass Classification
 Final Project
 
-[Lab Setting]
-# Basic Environment
+# Lab Setting
+### Basic Environment
 install python 3.x :  e.g.   install anaconda
 create virtual environment : e.g.  conda create -n KccMining python=3.7 anaconda
 jupyter notebook –generate –config  
