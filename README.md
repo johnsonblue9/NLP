@@ -1,13 +1,13 @@
 # 課程規劃
-##### W12 - Introduction
-### W13 -  PDF Extraction
-### W14 - Text Segmentation
-### W15 – Name Entity Recognition
-### W16 – Topic Modeling
-### W17 – Word Embedding
-### W18 – Binary Classification
-### W19 – Multiclass Classification
-### Final Project
+#### W12 - Introduction
+#### W13 -  PDF Extraction
+#### W14 - Text Segmentation
+#### W15 – Name Entity Recognition
+#### W16 – Topic Modeling
+#### W17 – Word Embedding
+#### W18 – Binary Classification
+#### W19 – Multiclass Classification
+#### Final Project
 
 # Lab Setting
 ### Basic Environment
